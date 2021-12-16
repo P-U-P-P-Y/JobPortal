@@ -1,0 +1,9 @@
+.nav-bar{
+    background-color: rgba(42,93,132,255);
+    color:white;
+    position: fixed;
+    width: 100%;
+    overflow: hidden;
+    top: 0;
+}
+
